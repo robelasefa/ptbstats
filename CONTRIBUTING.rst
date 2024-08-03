@@ -17,7 +17,7 @@ Setting things up
 
    .. code-block:: bash
 
-      $ git remote add upstream https://github.com/HirschHeissIch/ptbstats
+      $ git remote add upstream https://github.com/Bibo-Joshi/ptbstats
 
 4. Install dependencies:
 
@@ -206,7 +206,7 @@ break the API classes. For example:
        self.last_name = last_name
 
 
-.. _`issue tracker`: https://github.com/HirschHeissIch/ptbstats/-/issues
+.. _`issue tracker`: https://github.com/Bibo-Joshi/ptbstats/-/issues
 .. _`developer' mailing list`: ptbstats@mahlerhome.de
 .. _`PEP 8 Style Guide`: https://www.python.org/dev/peps/pep-0008/
 .. _`sphinx`: http://sphinx-doc.org
